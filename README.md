@@ -5,7 +5,11 @@ This is the base repo for COSC2804 - Programming Studio 2 - RMIT university
 ## Setup Instructions
 
 ```
-1. Go to the base repository template (https://github.com/RuwanT/COSC2804_base) and create a new repository using the base.
+1. Use this template (https://github.com/RuwanT/COSC2804_base) and create a new repository:
+* Click `Use this template`
+* Click `Create a new repository`
+
+
 2. Go to the created repository and create a code space.
 3. In codespaces, goto extensions and install 
     1. C/C++: IntelliSense, debugging, and code browsing.
